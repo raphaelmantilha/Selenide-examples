@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33b9aba1-424d-47a8-81e0-cd09a90546e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZrOabDmeDMgvynuLmykHeqT3x7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests">
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.incorrectPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="incorrectPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.shouldSeeLoggedUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="shouldSeeLoggedUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.shouldSeeLoginAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="shouldSeeLoginAlerts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.userNotFound" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="userNotFound" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.LoginTests.shouldSeeLoggedUser" />
+        <item itemvalue="TestNG.LoginTests.shouldSeeLoginAlerts" />
+        <item itemvalue="TestNG.LoginTests.userNotFound" />
+        <item itemvalue="TestNG.LoginTests.incorrectPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33b9aba1-424d-47a8-81e0-cd09a90546e4" name="Default Changelist" comment="" />
+      <created>1585593810204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585593810204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="99" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585687792297">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="413" y="99" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585687792297" />
+    <state x="92" y="92" width="1182" height="503" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585597325706">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="92" y="92" width="1182" height="503" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585597325706" />
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom" timestamp="1585679619926">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.bottom/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585679619926" />
+    <state width="1323" height="126" key="GridCell.Tab.0.center" timestamp="1585679619926">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.center/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585679619926" />
+    <state width="1323" height="126" key="GridCell.Tab.0.left" timestamp="1585679619925">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.left/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585679619925" />
+    <state width="1323" height="126" key="GridCell.Tab.0.right" timestamp="1585679619926">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="126" key="GridCell.Tab.0.right/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585679619926" />
+    <state width="1323" height="206" key="GridCell.Tab.1.bottom" timestamp="1585677103365">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.1.bottom/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585677103365" />
+    <state width="1323" height="206" key="GridCell.Tab.1.center" timestamp="1585677103365">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.1.center/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585677103365" />
+    <state width="1323" height="206" key="GridCell.Tab.1.left" timestamp="1585677103365">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.1.left/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585677103365" />
+    <state width="1323" height="206" key="GridCell.Tab.1.right" timestamp="1585677103365">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.1.right/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585677103365" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585605572008">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.687/-1366.0.1366.728@0.0.1366.687" timestamp="1585605572008" />
+  </component>
+</project>
